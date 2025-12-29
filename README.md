@@ -25,5 +25,4 @@ Requests to the ALB are routed to Server-1 or Server-2 automatically, demonstrat
 ## Technologies
 AWS EC2, AWS ALB, Nginx, Security Groups
 
-## Repository Link
-🔗 https://github.com/yourusername/aws-application-load-balancer
+
